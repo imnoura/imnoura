@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World! This is Noura 🦕
 
-<!--
-**imnoura/imnoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on JavaScript -->
+- 🌱 I’m currently learning HTML, CSS, and JS
+- 📫 How to reach me: 
+<a style="text-decoration: none !important" href="https://www.linkedin.com/in/imnoura" target="_blank">
+  <img src="https://github.com/imnoura/imnoura/blob/master/linkedin.png" height="40px" alt="LinkedIn"/>
+</a>
 
-Here are some ideas to get you started:
+<a style="text-decoration: none !important" href="mailto:imnouramousavi@gmail.com" target="_blank">
+  <img src="https://github.com/imnoura/imnoura/blob/master/gmail.png" height="40px" alt="Gmail"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a style="text-decoration: none !important" href="https://stackoverflow.com/users/20901930/noura-mousavi?tab=profile" target="_blank">
+  <img src="https://github.com/imnoura/imnoura/blob/master/stackoverflow.png" height="40px" alt="StackOverflow"/>
+</a>
