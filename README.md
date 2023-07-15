@@ -3,7 +3,7 @@
 ### Hello World! This is Noura 🦕
 
 <!-- - 🔭 I’m currently working on JavaScript -->
-I'm interested in front-end web development.
+- 👀 Frontend enthusiast.
 - 🌱 I’m currently learning Javascript and VueJS.
 - 📫 How to reach me: 
 <a style="text-decoration: none !important" href="https://www.linkedin.com/in/imnoura" target="_blank">
